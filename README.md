@@ -1,2 +1,2 @@
 # dinamic_variant_analysis
-Dinamic Variant Analysis with Python
+Sample code for the Dinamic Variant Analysis with Python blogpost on URL
